@@ -2,7 +2,7 @@ import turtle
 
 wn=turtle.Screen()         
 wn.setup(768,768)         
-wn.title("Sharp Art Coding Creations")
+wn.title("online Coder Creations")
 wn.bgcolor("#444444")
 
 
